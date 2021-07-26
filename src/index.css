@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(13, 64, 131);
+  color: white;
+}
+
+ul {
+  margin: 0;
+  padding-left: 15px;
+  list-style: none;
+}
+
+h1,
+h2,
+h3 {
+  margin: 10px;
+
+  padding: 0;
+}
